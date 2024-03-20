@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #d8d8d8;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.pizzaa-container {
+  width: 360px;
+  height: 528px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pizza-photo {
+  width: 350px;
+  height: 216px;
+  border-radius: 16px 16px 0px 0px;
+}
+
+.piz-div1 {
+  width: 312px;
+  font-family: dm serf display;
+  font-size: 24px;
+  line-height: 25px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-between;
+  margin-top: 32px;
+  margin-left: 24px;
+}
+
+.piz-div2 {
+  width: 312px;
+  height: 75px;
+  font-family: "Open sans";
+  font-size: 16px;
+  line-height: 25px;
+  color: #6e798c;
+  margin-left: 24px;
+  margin-top: 24px;
+}
+
+.piz-div3 {
+  width: 312px;
+  height: 25px;
+  color: #a5adbb;
+  font-family: "open sans";
+  font-size: 16px;
+  line-height: 25px;
+  display: flex;
+  justify-content: space-between;
+  margin: 24px 0px 0px 24px;
+}
+
+.piz-div4 {
+  width: 360px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 33px;
+  align-items: center;
+}
+
+.div4-span1 {
+  width: 88px;
+  height: 25px;
+  font-family: "DM Serif Display";
+  font-size: 28px;
+  line-height: 25px;
+  color: #081f32;
+}
+
+.div4-span2 {
+  width: 73px;
+  height: 25px;
+  font-family: "DM Serif Display";
+  font-size: 20px;
+  line-height: 25px;
+  color: #f8593b;
+  text-decoration: line-through;
+}
+
+.div4-buut {
+  width: 114px;
+  height: 44px;
+  border-radius: 4px;
+  background-color: #2ecc71;
+  font-family: "open sans";
+  font-weight: 700;
+  font-size: 14px;
+  color: white;
+  border: 1px solid #2ecc71;
+}
+
+.main {
+  width: 360px;
+  height: 528px;
+  border: 1px solid #d8d8d8;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  border-radius: 16px;
+  margin-top: 70px;
+}
+
+.icon {
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  top: 79px;
+  left: 394px;
+}
+
+.icon1 {
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  top: 79px;
+  left: 860px;
+}
+
+.icon2 {
+  width: 62px;
+  height: 62px;
+  position: absolute;
+  top: 79px;
+  left: 1320px;
+}
